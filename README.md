@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/akash_a001" target="blank"><img src="https://img.shields.io/twitter/follow/akash_a001?logo=twitter&style=for-the-badge" alt="akash_a001" /></a> </p>
 
-- 🔭 I’m currently working on **App development**
+- 🔭 I’m currently working on **API development**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Spring Boot**
 
-- 👯 I’m looking to collaborate on **App and web**
+- 👯 I’m looking to collaborate on **AI and web**
 
 - 🤝 I’m looking for help with **Web3**
 
 - 👨‍💻 All of my projects are available at [https://github.com/akash1106](https://github.com/akash1106)
 
-- 💬 Ask me about **React,Django,Pygame,Flutter**
+- 💬 Ask me about **React,Django,Pygame,Spring Boot**
 
 - 📫 How to reach me **akashavt001@gmail.com**
 
